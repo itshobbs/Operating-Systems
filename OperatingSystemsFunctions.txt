@@ -1,4 +1,11 @@
 Managing your computers resources
+
 Your OS manages resources on your computer such as the CPU, RAM, File Storage, I/O Devices and network connections.
 The OS is essentially a manger of those resources and allocates them to different programs and users when necessary to preform a particular task.
-A big component of that is memory management. This could be in the form of deallocating memory when a process has been stopped or is no longer needed or when multiprogramming deciding which process will get more memory and the amount of memory
+A big component of that is memory management. This could be in the form of de-allocating memory when a process has been stopped or is no longer needed or when multiprogramming deciding which process will get more memory and the amount of memory
+
+
+
+Processor Management
+
+Through a function called process scheduling your OS determines which process gets the processor and for how much time. The OS keeps track of the processor and status of processes through a program known as traffic controller. The OS allocates your CPU to a process and de-allocates the CPU when a process is no longer needed.
