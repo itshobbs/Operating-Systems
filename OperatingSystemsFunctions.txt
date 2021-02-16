@@ -12,4 +12,4 @@ Through a function called process scheduling your OS determines which process ge
 
 Device Management
 
-Then OS keeps track of all your devices througna program known as the i/o controller and manages device communication via their drivers. The OS will decide which processes get a device and for how much time. It will allocate devices in the most effecient way possible and de-allocate them when they are no longer needed.
+Then Operating system keeps track of all your devices througna program known as the i/o controller and manages device communication via their drivers. The OS will decide which processes get a device and for how much time. It will allocate devices in the most effecient way possible and de-allocate them when they are no longer needed.
