@@ -9,3 +9,7 @@ A big component of that is memory management. This could be in the form of de-al
 Processor Management
 
 Through a function called process scheduling your OS determines which process gets the processor and for how much time. The OS keeps track of the processor and status of processes through a program known as traffic controller. The OS allocates your CPU to a process and de-allocates the CPU when a process is no longer needed.
+
+Device Management
+
+Then OS keeps track of all your devices througna program known as the i/o controller and manages device communication via their drivers. The OS will decide which processes get a device and for how much time. It will allocate devices in the most effecient way possible and de-allocate them when they are no longer needed.
